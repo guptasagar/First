@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bluetooth Shake Toggle</string>
+    <string name="permission_required">Permissions required for app to function properly</string>
+    <string name="bluetooth_not_supported">Bluetooth not supported on this device</string>
+    <string name="accelerometer_not_found">Accelerometer not found on this device</string>
+    <string name="bluetooth_turned_on">Bluetooth turned ON</string>
+    <string name="bluetooth_turned_off">Bluetooth turned OFF</string>
+    <string name="shake_detection_active">Shake detection is now active</string>
+    <string name="permissions_granted">Permissions granted! Shake detection is now active.</string>
+</resources>
